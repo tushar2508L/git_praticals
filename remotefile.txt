@@ -1,1 +1,2 @@
 This is remote file creation for practices purpose 
+This is local commit for praticing purpose
